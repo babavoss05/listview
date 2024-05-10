@@ -150,8 +150,8 @@ public class CustomAdapter extends BaseAdapter {
 
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-03-25 at 09 35 42_59b821d3](https://github.com/sabithapaulraj/listview/assets/118343379/0f737d79-c1d4-4b72-961a-bf65e18ff4db)
-![Screenshot 2024-04-20 184048](https://github.com/sabithapaulraj/listview/assets/118343379/4da80cb3-faae-49ed-a53a-601b5ce8449d)
+![WhatsApp Image 2024-03-25 at 09 35 42_59b821d3](https://github.com/sabithapaulraj/listview/assets/118343379/0f737d79-c1d4-4b72-961a-bf65e18ff4db) <br>
+![Screenshot 2024-04-20 184048](https://github.com/sabithapaulraj/listview/assets/118343379/4da80cb3-faae-49ed-a53a-601b5ce8449d) <br>
 
 
 
